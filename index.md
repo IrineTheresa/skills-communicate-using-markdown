@@ -1,16 +1,18 @@
-# INTRODUCTION
+# FLOWER
 
-#### This is a  sample text... 
+#### Flowers are beautiful... 
 
 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) 
+[Image of flower]<img width="512" height="512" alt="image_183a47fe-f522-41db-8002-255516d744c6" src="https://github.com/user-attachments/assets/febca4af-b18f-4ae4-86c8-ee3ec8155aab" />
+
  ``` javascript
-var myVar = "Hello, world!";
+var myVar = "Hello, flower!";
 ```
-- [x] List syntax is required
-- [x] This item is complete
-- [ ] This item is not complete
+- [x] Tulips
+- [x] Lily
+- [ ] sunflower
+
 
 
 
